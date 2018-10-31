@@ -3,5 +3,5 @@ A python script where you can download books from library genesis through your t
 
 ## Requirments
 python3                                                            
-BeautifulSoup
+BeautifulSoup                                                                                      
 Selenium                                                                         
